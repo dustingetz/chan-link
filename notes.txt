@@ -1,0 +1,26 @@
+ChanLink v0.1.6
+http://chan-link.sourceforge.net/
+
+
+BUGS
+----
+- Box.execute_delayed() does not work properly (I think ?)
+- flood control is nasty code because of the above bug
+- flood control doesn't work anyway...
+- remote commands .load and .reload do not work at all
+
+
+TODO
+----
+- ability to reload config files w/o restart
+- add command trigger 'list' to report the users in a remote 
+  channel
+- get flood control working properly
+- support for connection protocols other than IRC!
+- (later) GUI frontend for configuration
+
+
+
+Coming Soon in v0.2
+-------------------
+- Battle.net text protocol support!

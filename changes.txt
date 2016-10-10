@@ -1,0 +1,27 @@
+ChanLink: http://chan-link.sourceforge.net
+
+
+ChanLink v0.1.6
+ * added system of user privledges, includes full 
+   Python regular expression support
+
+ChanLink v0.1.5
+ * I don't remember :P
+
+ChanLink v0.1.4
+ * added flood protection - VERY unstable due to 
+   bugs in the original irclib
+
+ChanLink v0.1.3
+ * much improved bot output - more descriptive
+
+ChanLink v0.1.2
+ * fixed invalid join before registration bug
+ * bot rejoins channel when kicked
+   (does not rejoin after unbanned)
+
+ChanLink v0.1.1
+ * made bot configuration slightly easier
+
+ChanLink v0.1.0
+ * Initial release
